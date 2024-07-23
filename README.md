@@ -10,7 +10,7 @@ How to Use
 Clone the repository:
 
 Copy code
-git clone https://github.com/yourusername/calculator-app.git
+git clone https://github.com/Shaik-Nihal/calculator-app.git
 cd calculator-app
 Run the application:
 Copy code
